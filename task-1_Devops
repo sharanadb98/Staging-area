@@ -1,0 +1,11 @@
+This is a Devops certifications task-1 some sample codes like commonds write here
+yum install git -y
+git init
+git clone (git code)
+git branch -m Staging area
+git checkout Staging area
+git add
+git commit -m "add some codes to file and push to remote repo"
+git push 
+
+Note:This is all the code from only task related now iam push this all code to git repo
